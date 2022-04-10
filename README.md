@@ -1,7 +1,8 @@
-#Spring Boot Tutorial
-##Amigoscode
+# Spring Boot Tutorial
+## Amigoscode
 https://youtu.be/9SGDpanrc8U
 
+**Table of Contents**
 00:00 Intro
 01:00 Quick Word
 02:12 Spring Boot Overview
