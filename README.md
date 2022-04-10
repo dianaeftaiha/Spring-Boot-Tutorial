@@ -61,3 +61,20 @@ https://youtu.be/9SGDpanrc8U
 01:29:41 Packaging and Running Application
 
 01:34:52 Next steps
+
+
+**Endpoints**
+
+
+###
+GET http://localhost:8080/api/v1/student
+
+###
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+
+{
+"name": "Helen Hunt",
+"email": "helenhunt@gmail.com",
+"dob": "1982-12-17"
+}
