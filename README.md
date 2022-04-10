@@ -16,6 +16,10 @@ Content-Type: application/json
 "dob": "1982-12-17"
 }
 
+***PUT http://localhost:8080/api/v1/student/1?name=Maria&email=maria.eftaiha@gmail.com***
+
+Content-Type: application/json
+
 ***DELETE http://localhost:8080/api/v1/student/1***
 
 **Table of Contents**
