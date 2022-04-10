@@ -1,11 +1,11 @@
 # Spring Boot Tutorial
 **By Amigoscode**
 https://youtu.be/9SGDpanrc8U
- 
+
 ### Endpoints
 
 ***GET http://localhost:8080/api/v1/student***
- 
+
 ***POST http://localhost:8080/api/v1/student***
 
 Content-Type: application/json
@@ -15,9 +15,9 @@ Content-Type: application/json
 "email": "helenhunt@gmail.com",
 "dob": "1982-12-17"
 }
- 
+
 ***DELETE http://localhost:8080/api/v1/student/1***
- 
+
 **Table of Contents**
 
 00:00 Intro
